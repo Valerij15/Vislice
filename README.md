@@ -5,4 +5,4 @@
 
 ## Opis
 
-V tem projektu se lahko igramo igro vislice. To storimo tako, da požnemo funkcijo ter igremo.
+V tem projektu se lahko igramo igro vislice. To storimo tako, da požnemo funkcijo ter igramo.
